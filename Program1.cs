@@ -5,9 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
-{
-    internal class Program
+
+class Program
     {
 
         static void Main(string[] args)
@@ -34,4 +33,4 @@ namespace ConsoleApp1
                 Console.WriteLine($"Было введено {col} чис{ok}. Сумма чисел {sum}");
         }
     }
-}
+
